@@ -1,4 +1,4 @@
-# Car Loan Approval Prediction
+# Loan Approval Prediction
 
 This project aims to predict car loan approvals using machine learning techniques. The dataset was sourced from Kaggle and underwent thorough exploration through visualization to uncover insights. After preprocessing and feature engineering, the final model utilized was an XGBoost classifier, which achieved an impressive accuracy of 96.8%.
 
