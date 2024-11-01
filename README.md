@@ -1,4 +1,4 @@
-# Loan Status Prediction Model
+# Loan Approval Prediction and Visualization
 
 ## Overview
 This project aims to develop a machine learning model for predicting loan statuses based on various features of borrowers. The analysis involves data visualization, preprocessing, model training, evaluation, and hyperparameter tuning.
